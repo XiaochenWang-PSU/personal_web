@@ -22,9 +22,7 @@ organizations:
     url: https://www.psu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My name is Xiaochen Wang. I am now pursuing my PhD degree in Informatics at Pennsylvania State University under the supervision of Dr. Fenglong Ma. Before that, I received my Master Degree in Information Science at University of North Carolina at Chapel Hill, supervised by Dr. Yue Wang, and my Bachelor Degree in Automation at Central South University, China, supervised by Dr. Fan Guo.
-
-My research interests include Multimodal Learning, Natural Language Processing, Information Retrieval and Health Informatics.
+bio: My name is Xiaochen Wang. I am now pursuing my PhD degree in Informatics at Pennsylvania State University under the supervision of Dr. Fenglong Ma. Before that, I received my Master Degree in Information Science at University of North Carolina at Chapel Hill, supervised by Dr. Yue Wang, and my Bachelor Degree in Automation at Central South University, China, supervised by Dr. Fan Guo. My research interests include Multimodal Learning, Natural Language Processing, Information Retrieval and Health Informatics.
 
 # Interests to show in About widget
 interests:
