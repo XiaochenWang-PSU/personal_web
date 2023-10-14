@@ -1,7 +1,7 @@
 ---
 title: "Hierarchical Pretraining on Multimodal Electronic Health Records"
 authors:
-  - Xiaochen Wang
+  - admin
   - Junyu Luo
   - Jiaqi Wang
   - Ziyi Yin
