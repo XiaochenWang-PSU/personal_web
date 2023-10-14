@@ -25,7 +25,6 @@ image:
   preview_only: false
 date: 2022-06-13T22:36:53.026Z
 ---
-
 ---
 title: "Resource: Extreme Systematic Reviews: A Large Literature Screening
   Dataset to Support Environmental Policymaking"
