@@ -16,7 +16,7 @@ authors:
   - Arcot Rajasekar
   - Satya S. Sahoo
   - Matthew D. Turner
-  - Xiaochen Wang
+  - admin
   - Yue Wang
   - Jessica A. Turner
 publication_short: "Frontiers in Neuroinformatics, 17, 1215261"
