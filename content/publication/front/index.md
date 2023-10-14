@@ -20,5 +20,5 @@ authors:
   - Yue Wang
   - Jessica A. Turner
 publication_short: "Frontiers in Neuroinformatics, 17, 1215261"
-date: 2023-XX-XX (Replace with the actual publication date)
+date: 2023-06-13T22:36:53.026Z
 ---
