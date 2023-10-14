@@ -50,6 +50,7 @@ sections:
   #        columns: '2'
 
   - block: collection
+    id: Publications
     content:
       title: Publications
       text: |-
