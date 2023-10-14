@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiaochen Wang (王晓晨)
+title: Xiaochen Wang 王晓晨
 
 # Full name (for SEO)
 first_name: Xiaochen
