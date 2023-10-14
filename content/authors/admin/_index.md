@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xiaochen Wang 王晓晨
+title: Xiaochen Wang 
 
 # Full name (for SEO)
 first_name: Xiaochen
-last_name: Wang
+last_name: Wang 王晓晨
 
 # Status emoji
 status:
