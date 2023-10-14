@@ -7,5 +7,5 @@ authors:
   - Lucas Glass
   - Fenglong Ma
 publication_short: "In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM). Accepted, to appear"
-date: 2023-XX-XX (Replace with the actual publication date)
+date: 2023-06-13T22:36:53.026Z
 ---
