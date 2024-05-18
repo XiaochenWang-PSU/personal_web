@@ -2,7 +2,7 @@
 title: " Enabling Scientific Reproducibility through FAIR Data Management: An
   ontology-driven deep learning approach in the NeuroBridge Project"
 publication_types:
-  - "1"
+  - "Health Informatics"
 authors:
   - admin
   - Yue Wang
@@ -15,8 +15,7 @@ authors:
   - Matthew D. Turner
   - Lei Wang
   - Satya S. Sahoo
-publication_short: American Medical Informatics Association 2022 Annual
-  Symposium (AMIA). Accepted. To appear
+publication_short:AMIA'22
 draft: false
 featured: false
 image:
