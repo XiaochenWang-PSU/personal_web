@@ -2,7 +2,7 @@
 title: "Resource: Extreme Systematic Reviews: A Large Literature Screening
   Dataset to Support Environmental Policymaking"
 publication_types:
-  - "1"
+  - Information Retrieval
 authors:
   - Jingwen Hou
   - admin
@@ -10,8 +10,7 @@ authors:
   - R. Byron Rice
   - Amanda Haddock
   - Yue Wang
-publication_short: The 31rd ACM International Conference on Information and
-  Knowledge Management (CIKM). Accepted. To appear
+publication_short: CIKM'22
 draft: false
 featured: false
 image:
