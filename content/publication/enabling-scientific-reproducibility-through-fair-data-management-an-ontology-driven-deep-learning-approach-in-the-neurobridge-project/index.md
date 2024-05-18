@@ -15,7 +15,7 @@ authors:
   - Matthew D. Turner
   - Lei Wang
   - Satya S. Sahoo
-publication_short:AMIA'22
+publication_short: AMIA'22
 draft: false
 featured: false
 image:
