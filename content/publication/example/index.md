@@ -3,7 +3,7 @@ abstract: ""
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "Natural Language Processing"
 authors:
   - admin
   - Yue Wang
@@ -12,9 +12,7 @@ publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: "The 2022 Conference of the North American Chapter of the
-  Association for Computational Linguistics - Human Language Technologies
-  (NAACL) (pp. 2151-2165). "
+publication_short: NAACL'22
 url_source: ""
 url_video: ""
 title: Sentence-Level Resampling for Named Entity Recognition
