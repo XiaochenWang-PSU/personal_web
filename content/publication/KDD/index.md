@@ -1,5 +1,8 @@
 ---
 title: "Mitigating Pooling Bias in E-commerce Search via False Negative Estimation"
+publication_types:
+  - Information Retrieval
+  - Natural Language Processing
 authors:
   - admin
   - Xiao Xiao
