@@ -1,5 +1,7 @@
 ---
 title: "NeuroBridge: A Prototype Platform for Discovery of The Long-Tail Neuroimaging Data"
+publication_types:
+  - "Health Informatics"
 authors:
   - Lei Wang
   - Jose Luis Ambite
@@ -19,6 +21,6 @@ authors:
   - admin
   - Yue Wang
   - Jessica A. Turner
-publication_short: "Frontiers in Neuroinformatics, 17, 1215261"
+publication_short: "Frontiers in Neuroinformatics"
 date: 2023-06-13T22:36:53.026Z
 ---
