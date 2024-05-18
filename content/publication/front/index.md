@@ -1,7 +1,7 @@
 ---
 title: "NeuroBridge: A Prototype Platform for Discovery of The Long-Tail Neuroimaging Data"
 publication_types:
-  - "Health"
+  - "Health Informatics"
 authors:
   - Lei Wang
   - Jose Luis Ambite
