@@ -9,6 +9,6 @@ authors:
   - Yuan Zhong
   - Yaqing Wang
   - Fenglong Ma
-publication_short: The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). Accepted, to appear
+publication_short: EMNLP'23
 date: 2023-06-13T22:36:53.026Z
 ---
