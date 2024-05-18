@@ -1,9 +1,9 @@
 ---
 title: "Unity in Diversity: Collaborative Pre-training Across Multimodal Medical Sources."
 publication_types:
-  - Health Informatics
-  - Multimodal Learning
-  - Natural Language Processing
+  - "Health Informatics"
+  - "Multimodal Learning"
+  - "Natural Language Processing"
 authors:
   - admin
   - Junyu Luo
@@ -15,5 +15,5 @@ authors:
   - Cao Xiao  
   - Fenglong Ma
 publication_short: "ACL'24"
-date: 2023-06-13T22:36:53.026Z
+date: 2024-05-16T22:36:53.026Z
 ---
