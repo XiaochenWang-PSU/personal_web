@@ -1,5 +1,9 @@
 ---
 title: "Unity in Diversity: Collaborative Pre-training Across Multimodal Medical Sources."
+publication_types:
+  - Health Informatics
+  - Multimodal Learning
+  - Natural Language Processing
 authors:
   - admin
   - Junyu Luo
