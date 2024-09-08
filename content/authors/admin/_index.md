@@ -1,6 +1,7 @@
 ---
 title: Xiaochen Wang
 role: Third-year PhD Student
+avatar_filename: avator.jpg
 bio: My name is Xiaochen Wang. I am now pursuing my PhD degree in Informatics at
   Pennsylvania State University under the supervision of Dr. Fenglong Ma. Before
   that, I received my Master Degree in Information Science at University of
@@ -22,7 +23,7 @@ social:
     link: https://www.linkedin.com/in/xiaochen-wang-1860691b4/
   - icon: cv
     icon_pack: ai
-    link: uploads/Xiaochen_Wang_CV_1007_2023.pdf
+    link: uploads/Xiaochen_Wang_CV_09_04_2024.pdf
 organizations:
   - name: Pennsylvania State University
     url: https://www.psu.edu/
