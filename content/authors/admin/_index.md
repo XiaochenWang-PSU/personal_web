@@ -23,7 +23,7 @@ social:
     link: https://www.linkedin.com/in/xiaochen-wang-1860691b4/
   - icon: cv
     icon_pack: ai
-    link: uploads/Xiaochen_Wang_CV_09_04_2024.pdf
+    link: uploads/Xiaochen_Wang_CV_03_03_2025.pdf
 organizations:
   - name: Pennsylvania State University
     url: https://www.psu.edu/
